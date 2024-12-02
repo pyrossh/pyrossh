@@ -1,4 +1,4 @@
-> # Decomissioning of my github profile
+# ** Decomissioning of my github profile **
 
 New profile location,
 **https://git.sr.ht/~pyrossh/**
